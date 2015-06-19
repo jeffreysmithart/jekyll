@@ -1,0 +1,13 @@
+# Site settings
+title: Test Blog | Jekyll Test 
+email: jeffrey@jeffreysmithdesigner.com
+description: A blog to test what Jekyll is all about
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jeffreysmithart
+github_username:  jeffreysmithart
+paginate: 1
+
+# Build settings
+markdown: kramdown
+permalink: pretty
